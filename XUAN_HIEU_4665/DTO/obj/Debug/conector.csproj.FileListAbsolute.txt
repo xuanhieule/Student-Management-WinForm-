@@ -1,0 +1,9 @@
+F:\C#\project\XUAN_HIEU_4665\DTO\bin\Debug\DTO.exe.config
+F:\C#\project\XUAN_HIEU_4665\DTO\bin\Debug\DTO.exe
+F:\C#\project\XUAN_HIEU_4665\DTO\bin\Debug\DTO.pdb
+F:\C#\project\XUAN_HIEU_4665\DTO\obj\Debug\conector.csprojAssemblyReference.cache
+F:\C#\project\XUAN_HIEU_4665\DTO\obj\Debug\DTO.Properties.Resources.resources
+F:\C#\project\XUAN_HIEU_4665\DTO\obj\Debug\conector.csproj.GenerateResource.cache
+F:\C#\project\XUAN_HIEU_4665\DTO\obj\Debug\conector.csproj.CoreCompileInputs.cache
+F:\C#\project\XUAN_HIEU_4665\DTO\obj\Debug\DTO.exe
+F:\C#\project\XUAN_HIEU_4665\DTO\obj\Debug\DTO.pdb

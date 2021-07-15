@@ -1,0 +1,13 @@
+F:\C#\project\XUAN_HIEU_4665\DAO\bin\Debug\DAO.exe.config
+F:\C#\project\XUAN_HIEU_4665\DAO\bin\Debug\DAO.exe
+F:\C#\project\XUAN_HIEU_4665\DAO\bin\Debug\DAO.pdb
+F:\C#\project\XUAN_HIEU_4665\DAO\bin\Debug\DTO.exe
+F:\C#\project\XUAN_HIEU_4665\DAO\bin\Debug\DTO.pdb
+F:\C#\project\XUAN_HIEU_4665\DAO\bin\Debug\DTO.exe.config
+F:\C#\project\XUAN_HIEU_4665\DAO\obj\Debug\Model.csprojAssemblyReference.cache
+F:\C#\project\XUAN_HIEU_4665\DAO\obj\Debug\DAO.Properties.Resources.resources
+F:\C#\project\XUAN_HIEU_4665\DAO\obj\Debug\Model.csproj.GenerateResource.cache
+F:\C#\project\XUAN_HIEU_4665\DAO\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\C#\project\XUAN_HIEU_4665\DAO\obj\Debug\Model.csproj.CopyComplete
+F:\C#\project\XUAN_HIEU_4665\DAO\obj\Debug\DAO.exe
+F:\C#\project\XUAN_HIEU_4665\DAO\obj\Debug\DAO.pdb

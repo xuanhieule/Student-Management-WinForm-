@@ -1,0 +1,16 @@
+F:\C#\project\XUAN_HIEU_4665\BUS\bin\Debug\BUS.exe.config
+F:\C#\project\XUAN_HIEU_4665\BUS\bin\Debug\BUS.exe
+F:\C#\project\XUAN_HIEU_4665\BUS\bin\Debug\BUS.pdb
+F:\C#\project\XUAN_HIEU_4665\BUS\bin\Debug\DAO.exe
+F:\C#\project\XUAN_HIEU_4665\BUS\bin\Debug\DTO.exe
+F:\C#\project\XUAN_HIEU_4665\BUS\bin\Debug\DAO.pdb
+F:\C#\project\XUAN_HIEU_4665\BUS\bin\Debug\DAO.exe.config
+F:\C#\project\XUAN_HIEU_4665\BUS\bin\Debug\DTO.pdb
+F:\C#\project\XUAN_HIEU_4665\BUS\bin\Debug\DTO.exe.config
+F:\C#\project\XUAN_HIEU_4665\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\C#\project\XUAN_HIEU_4665\BUS\obj\Debug\BUS.Properties.Resources.resources
+F:\C#\project\XUAN_HIEU_4665\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+F:\C#\project\XUAN_HIEU_4665\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\C#\project\XUAN_HIEU_4665\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\C#\project\XUAN_HIEU_4665\BUS\obj\Debug\BUS.exe
+F:\C#\project\XUAN_HIEU_4665\BUS\obj\Debug\BUS.pdb
